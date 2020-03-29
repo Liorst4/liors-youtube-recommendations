@@ -104,7 +104,17 @@
 ### Hacking
 
 * [Consoles](https://www.youtube.com/watch?v=4BlpONgj74A&list=PLUbw0IXAmW2rMk5g19MrqcyebecSrrSeJ)
-* [Exploiting glitches in Mario 64](https://www.youtube.com/watch?v=kpk2tdsPh0A)
+
+
+#### Mario 64
+
+* [Tool assisted speedrun explanation](https://www.youtube.com/watch?v=wjge1bVobN0)
+* [Finishing a level with half a jump](https://www.youtube.com/watch?v=kpk2tdsPh0A)
+
+#### Super Mario World
+
+* [Credits Warp Explained](https://www.youtube.com/watch?v=Jf9i7MjViCE)
+* [Jailbreaking Super Mario World](https://www.youtube.com/watch?v=Ixu8tn__91E)
 
 ## Text editors
 

@@ -45,33 +45,39 @@
 * [Android](https://www.youtube.com/user/androiddevelopers)
 * [Samsung](https://www.youtube.com/channel/UCkDAwuCKUcY1qn-hgNv0kLw)
 
-## C and C++
 
-### Lectures
+## Programming languages
+
+* [Context Free](https://www.youtube.com/c/ContextFree)
+
+### C and C++
+
+#### Lectures
 
 * [CppCon](https://www.youtube.com/channel/UCMlGfpWw-RUdWX_JbLCukXg)
 
-### Tutorials
+#### Tutorials
 
 * [C++ Weekly](https://www.youtube.com/playlist?list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1)
 * [Bo Qian](https://www.youtube.com/playlist?list=PL5jc9xFGsL8FWtnZBeTqZBbniyw0uHyaH)
 * [Bisqwit](https://www.youtube.com/user/Bisqwit/featured)
 
-## Rust
+### Rust
 
-### Lectures
+#### Lectures
 
 * [Rust](https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA)
 
-### Tutorials
+#### Tutorials
 
 * [5 Minute Rust](https://www.youtube.com/channel/UCVgTakRms47ldJIb05JFkQw)
 
-## Haskell
+### Haskell
 
-### Tutorials
+#### Tutorials
 
 * [Intro to Functional Programming](https://www.youtube.com/playlist?list=PLXSqjnf5bkVaoo11Im3r3x637myNoJJt-)
+* [Haskell for Imperative Programmers](https://www.youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
 
 ## Open Source Software
 
@@ -88,6 +94,9 @@
 * [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
 * [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)
 
+### Lectures
+* [Strange Loop](https://www.youtube.com/c/StrangeLoopConf)
+
 ## Blockchain
 
 ### Lectures
@@ -100,6 +109,9 @@
 
 * [GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ)
 * [Godot Engine](https://www.youtube.com/channel/UCKIDvfZD1ZhY4_hhbotf7wA)
+
+### Development
+* [CodeParade](https://www.youtube.com/c/CodeParade)
 
 ### Hacking
 
@@ -122,6 +134,9 @@
 
 * [Vim Meetups](https://www.youtube.com/watch?v=XA2WjJbmmoM&list=PL8tzorAO7s0jy7DQ3Q0FwF3BnXGQnDirs)
 * [Emacs Meetups](https://www.youtube.com/watch?v=w3krYEeqnyk&list=PL8tzorAO7s0he-pp7Y_JDl7-Kz2Qlr_Pj)
+
+### Tutorials
+* [System Crafters](https://www.youtube.com/c/SystemCrafters)
 
 ## Etc...
 

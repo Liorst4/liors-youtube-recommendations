@@ -1,5 +1,8 @@
 # Lior's Youtube Recommendations
 
+In today's internet, a lot of the best content for learning is in video form.
+This document compiles a list of cool channels, playlists and videos to learn about verious tech subjects.
+
 ## Cyber Security
 
 ### Lectures
